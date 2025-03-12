@@ -1,5 +1,5 @@
 syntax = “proto3”;
- option go_package="github.com/Yordi-SE/microservices-proto";
+ option go_package="github.com/Yordi-SE/microservices-proto/order";
  message CreateOrderRequest {
     int64 user_id = 1;
     repeated Item items = 2;
