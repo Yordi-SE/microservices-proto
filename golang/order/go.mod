@@ -1,4 +1,4 @@
-module github.com/Yordi-SE/microservices-proto
+module github.com/Yordi-SE/microservices-proto/golang/order
 
 go 1.23.5
 
